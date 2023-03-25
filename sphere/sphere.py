@@ -3,7 +3,7 @@
 r = float(input('Please Enter the radius of the sphere: '))
  
 # calculate the volume
-Volume = 
+Volume = 4 / 3 * 3.14159 * r * r * r
  
-print("\n The volume of the sphere is: %.10f" %Volume)
+print("\n The volume of the sphere is: %.4f" %Volume)
 
